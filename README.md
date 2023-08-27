@@ -1,5 +1,5 @@
 # learn-spark
 Learning Spark Series: Exploring Apache Spark Fundamentals
 
-Reference to this article. Thanks 
-Link: https://hadoopsters.com/tagged/spark-starter-guide
+Thanks to below article creator (Landon Robinson).  
+Reference Link: https://hadoopsters.com/tagged/spark-starter-guide
