@@ -54,7 +54,7 @@ Welcome to the Apache Spark Series! This series contains a collection of Jupyter
       
 13. **Caching using PySpark**
     - Learn how caching is used to store the results of an expensive computation in memory.
-    - [caching using Spark.ipynb](./12.%20Caching%20in%20Pyspark.ipynb)
+    - [caching using Spark.ipynb](13. Caching in Pyspark.ipynb)
 
 ## Additional Resources
 
