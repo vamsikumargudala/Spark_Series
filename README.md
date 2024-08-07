@@ -52,9 +52,9 @@ Welcome to the Apache Spark Series! This series contains a collection of Jupyter
     - Learn how to normalize and denormalize data in Spark.
     - [Normalizing and Denormalizing Data using Spark.ipynb](./12.%20Normalizing%20and%20Denormalizing%20Data%20using%20Spark.ipynb)
       
-13. **Caching using PySpark**
-    - Learn how caching is used to store the results of an expensive computation in memory.
-    - [caching using Spark.ipynb](13. Caching in Pyspark.ipynb)
+13. **Caching in PySpark**
+    - Learn how to use caching to optimize Spark jobs.
+    - [Caching in Pyspark.ipynb](./13.%20Caching%20in%20Pyspark.ipynb)
 
 ## Additional Resources
 
