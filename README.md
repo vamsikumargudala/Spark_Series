@@ -58,7 +58,7 @@ Welcome to the Apache Spark Series! This series contains a collection of Jupyter
 
 14. **Partition and shuffle**
     - Learn how to use partition and shuffle to optimize Spark jobs.
-    - [Partition and shuffle.ipynb](./13.%20Partition%20and%20shuffle.ipynb)
+    - [Partition and shuffle.ipynb](./14.%20Partition%20and%20shuffle.ipynb)
 
 ## Additional Resources
 
